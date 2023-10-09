@@ -1,4 +1,7 @@
-### Hi there 👋
+### ⚡欢迎来到我的空间~⚡
+### ⚡成都大三在读学生一枚，卑微前端爱好者⚡
+### ⚡由于长时间的输入没有一个较好的输出，现已计划从零开始开发一个个人博客⚡
+### ⚡⚡⚡⚡⚡敬请期待⚡⚡⚡⚡⚡
 
 <!--
 **isJimTT/isJimtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
