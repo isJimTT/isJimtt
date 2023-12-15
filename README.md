@@ -4,7 +4,7 @@
 #### 
 
 ### 当前已完成：第一版上线
-预览地址：http://47.108.92.140/home (域名已经在路上啦~)
+预览地址：www.jimtt.top 
 <!--
 **isJimTT/isJimtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
